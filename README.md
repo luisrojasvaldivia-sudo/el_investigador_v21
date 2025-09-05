@@ -22,6 +22,6 @@ BASE_TERMS: This list should contain the most specific and critical keywords for
 
 SEMANTIC_QUERY: This is a broader phrase that describes your central research topic. It is used for an initial "smart" semantic filter that identifies conceptually similar articles.
 
-SEMANTIC_THRESHOLD: This parameter sets the similarity cutoff (from 0 to 1). A value of 0.24 retains only articles with a semantic similarity of 24% or greater to the SEMANTIC_QUERY.
+SEMANTIC_THRESHOLD: This parameter sets the similarity cutoff (from 0 to 1). A value of 0.93 retains only articles with a semantic similarity of 93% or greater to the SEMANTIC_QUERY.
 
 TIME_FILTER: This defines the publication year range for the analysis. The example is set to analyze articles published between 1900 and 2025.
